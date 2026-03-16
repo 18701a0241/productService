@@ -59,6 +59,7 @@ public class ProductEntity  {
 	}
 
 	public Integer getQuantity() {
+		
 		return quantity;
 	}
 
